@@ -54,12 +54,7 @@
 <li class="nav-item">
           <a class="nav-link text-light" href="javascript:void(0)">Contact</a>
         </li>
-        <li class="nav-item text-secondary">
-          <a class="nav-link text-light" href="javascript:void(0)">Terms & conditions</a>
-        </li>
-        <li class="nav-item text-secondary">
-          <a class="nav-link text-light" href="javascript:void(0)">Disclaimer</a>
-        </li>
+    
 </div>
 
     
