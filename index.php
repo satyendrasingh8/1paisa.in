@@ -14,19 +14,23 @@
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="mynavbar">
-      <ul class="navbar-nav me-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="javascript:void(0)">About Us</a>
+    <div class="collapse navbar-collapse navbar-right" id="mynavbar">
+    
+    <ul class="navbar-nav ms-auto">
+     </ul>
+
+     <div class="navbar-nav ms-auto">
+      <li class="nav-item">
+          <a class="nav-link text-light" href="javascript:void(0)">About Us</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="javascript:void(0)">Services</a>
+          <a class="nav-link text-light" href="javascript:void(0)">Services</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="javascript:void(0)">Team</a>
+        <li class="nav-item text-secondary">
+          <a class="nav-link text-light" href="javascript:void(0)">Team</a>
         </li>
         <li class="nav-item dropdown">
-  <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Loan</a>
+  <a class="nav-link dropdown-toggle text-light" href="#" role="button" data-bs-toggle="dropdown">Loan</a>
   <ul class="dropdown-menu">
     <li><a class="dropdown-item" href="#">Mobile Loan</a></li>
     <li><a class="dropdown-item" href="#">Small Loan</a></li>
@@ -39,13 +43,8 @@
 
   </ul>
 </li>
-<li><a class="dropdown-item" href="#">Contact</a></li>
-      </ul>
-
-
-      <div class="d-flex align-items-center">
       <li class="nav-item dropdown">
-  <a class="nav-link dropdown-toggle text-secondary" href="#" role="button" data-bs-toggle="dropdown">Login</a>
+  <a class="nav-link dropdown-toggle text-light" href="#" role="button" data-bs-toggle="dropdown">Login</a>
   <ul class="dropdown-menu">
     <li><a class="dropdown-item" href="#">Login</a></li>
     <li><a class="dropdown-item" href="#">Register</a></li>
@@ -53,9 +52,17 @@
   </ul>
 </li>
 <li class="nav-item">
-          <a class="nav-link text-secondary" href="javascript:void(0)">Contact</a>
+          <a class="nav-link text-light" href="javascript:void(0)">Contact</a>
+        </li>
+        <li class="nav-item text-secondary">
+          <a class="nav-link text-light" href="javascript:void(0)">Terms & conditions</a>
+        </li>
+        <li class="nav-item text-secondary">
+          <a class="nav-link text-light" href="javascript:void(0)">Disclaimer</a>
         </li>
 </div>
+
+    
     </div>
   </div>
 </nav>
