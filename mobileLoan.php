@@ -27,7 +27,7 @@
 
 <div class="sat-container" > <div class="sat-top-section">
 <h1 class="animate__animated animate__fadeIn">Mobile Loan</h1>
-<div class="animate__animated animate__pulse">
+<div class="animate__animated animate__fadeIn">
     <p>Get Instant Mobile Loan up to ₹1 Lakhs Easily at 1paisa.com.
 <b>3 easy and simple steps to buy a new phone!</b> 
 Wondering how to buy a mobile phone on EMI with 1paisa.com? We have a step by step guide ready for you. All you need to do to buy your mobile phone on EMI is to follow the steps below:
@@ -41,36 +41,97 @@ Wondering how to buy a mobile phone on EMI with 1paisa.com? We have a step by st
 <div class="card mb-3">
   <img  src="https://topflightapps.com/wp-content/uploads/2020/07/Mobile-loan-app-hero-image.jpg" 
   class="card-img-top" style="height: 330px;" alt="mobile loan">
-  <div class="card-body">
+  <div class="card-body" style="width:90%; text-align:center;">
     <h3 class="card-title animate__animated animate__pulse" style="text-align: center; padding-top:20px;">
-    3 Easy Steps to buy your new phone!</h3>
+    <span class="badge bg-secondary" >3 Easy Steps to buy your new</br> phone!</span></h3>
     <p class="card-text">
     
 
-Wondering how to buy a mobile phone on EMI with NIRA? We have a step by step guide ready for you.
+Wondering how to buy a mobile phone on EMI with <b>1paisa - Finance company? </b> We have a step by step guide ready for you.
  All you need to do to buy your mobile phone on EMI is to follow the steps below:
- <ul>
-  <li>Download the NIRA instant loan app on emi without credit card</li>
-  <li>Fill in your details and upload the required documents</li>
-  <li>Set up our inbuilt auto-debit system and avail your personal loan</li>
-<li> Congratulations! You can now buy the phone of your choice!</li>
-</ul>
+
+<div class="list-group" >
+  
+     <button type="button" class="btn btn-primary" >1. Go to 1paisa.in website</button>
+
+  
+</br>
+  <button type="button" class="btn btn-primary">2. Fill in your details and upload the required documents</button>
+ 
+  </br>
+  <button type="button" class="btn btn-primary">3. Set up our inbuilt auto-debit system and avail your personal loan</button>
+  </br>
+      
+  <button type="button" class="btn btn-danger">Congratulations! You can now buy the phone of your choice!</button>
+</div>
+</br>
+
+  </div>
+</div>
 
 
-    
-   <p class="card-text"><button type="button" class="btn btn-warning">Lorem Ipsum</button></p>
+
+<!--  How it works 1paisa  -->
+
+<div class="card">
+  <h1 class="card-header text-center bg-dark text-light animate__animated animate__fadeIn">How it works </h1>
+  <div class="row g-0">
+    <div class="col-md-4">
+      <img src="https://images.financialexpress.com/2018/03/iphonex-reuters-6.jpg" class="img-fluid rounded-start" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title animate__animated animate__fadeIn"> Elibility Criteria</h5>
+        <p class="animate__animated animate__fadeIn">survived not only five centuries, but also the leap into electronic typesetting, remaining essentially
+           unchanged. It was popularised in the 1960s with the release of Letraset sheets containing </p>
+
+        <h5 class="card-title animate__animated animate__fadeIn">  Documents Required</h5>
+        <p class="animate__animated animate__fadeIn">survived not only five centuries, but also the leap into electronic typesetting, remaining essentially
+           unchanged. It was popularised in the 1960s with the release of Letraset sheets containing </p>
+
+
+        <h5 class="card-title animate__animated animate__fadeIn"> Fees & Charges</h5>
+        <p class="animate__animated animate__fadeIn">survived not only five centuries, but also the leap into electronic typesetting, remaining essentially
+           unchanged. It was popularised in the 1960s with the release of Letraset sheets containing </p>
+
+
+      </div>
+    </div>
   </div>
 </div>
 
 
 
 
+<!--   Apply for mobile phones on EMI   -->
 
+<div class="card mb-3 bg-dark text-white" style="width:100%;">
+  <div class="row g-0">
+    <div class="col-md-6">
+      <div class="card-body">
+        <h1 class="card-title animate__animated animate__fadeIn">Apply for mobile phones on EMI</h1>
+        <p class="card-text animate__animated animate__fadeIn">You should have a graduate degree.
+It’s important to hold a college degree to finance your mobile on EMI from NIRA. A college degree builds on your credibility and credentials for a smartphone loan application.
+</br></br>
+Your monthly income should be Rs. 20,000 or more ​
+To be eligible to finance your mobile phone on EMI with a debit card, you need to display an ability to be able to afford the EMI repayment. For this reason, your salary plays a crucial role in your smartphone loan application.
+</br></br>
+You should be employed for at least 6 months.
+While it isn’t necessary to have many years of work experience, a continuous and stable employment of minimum 6 months increases your chances of getting qualified for a smartphone loan to help you buy mobile phones on EMI.
+</br></br>
+You have an Aadhaar card.
+An Aadhaar card is mandatory for NIRA smartphone loan application and to buy a mobile emi on aadhar card. This will help speed up the process of completion of verification and KYC.
 
+</p>
+        <p class="card-text"><button type="button" class="btn btn-danger">Check Eligibility criteria</button> </p>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <img src="https://www.gizbot.com/images/2019-02/vivo-u1_155107538060.jpg" class="img-fluid rounded-start" alt="...">
+    </div>
 
-
-
-
+  </div>
+</div>
 
 
 
@@ -99,28 +160,56 @@ I will give you a complete account of the system, and expound the actual teachin
 </div>
 
 
+<!--   Why People choose us   -->
 
 
+<div class="card-group">
+<div class="card col">
 
-<div class="sat-top-sect"> 
-1914 translation by H. Rackham
-"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and 
-I will give you a complete account of the system, and expound the actual teachings of the great explorer of
- the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because
-  it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that
-   are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because
-    it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.
-     To take a trivial example, which of us ever undertakes laborious
- physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses
-  to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
-
-Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
-"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque 
-corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui 
-officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
-</div>
+<div class="row">
+<h1 class="card-header text-center bg-dark text-light animate__animated animate__fadeIn">Why People choose Us! </h1>
 </div>
 
+<div class="row">
+<div class="card col-md-4" style="text-align:center;">
+<i class="fa fa-users" style="font-size:60px; padding:10px;"></i> <h5 class="card-title">Dedicated Specialists</h5>
+    <div class="card-body">
+      
+      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <button type="button" class="btn btn-outline-danger">Meet The Team</button>
+    </div>
+  </div>
+  
+<div class="card col-md-4" style="text-align:center;">
+<i class="fa fa-trophy" style="font-size:60px; padding:10px;"></i> <h5 class="card-title">Success Stories Rating</h5>
+    <div class="card-body">
+      
+      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <button type="button" class="btn btn-outline-danger">View Client Rating </button>
+    </div>
+  </div>
+  
+<div class="card col-md-4" style="text-align:center;">
 
+<i class='fas fa-hand-holding-usd' style='font-size:60px; padding:10px;'></i> <h5 class="card-title">Why Choose Us!</h5>
+    <div class="card-body">
+      
+      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <button type="button" class="btn btn-outline-danger">Why Choose Us</button>
+    </div>
+  </div>
+
+  </div> </div>
+</div>
+
+
+
+<!--   We are here to help you     -->
+
+
+
+
+
+</div>
 <?php include './layout/footer.php';
 ?>

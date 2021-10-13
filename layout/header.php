@@ -14,9 +14,11 @@
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
   />
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"></script>
-  
+  <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
 </head>
 <body>
+
+<!--   header section     -->
 
 <header><nav class="navbar navbar-expand-sm navbar-dark bg-dark">
   <div class="container-fluid">
@@ -74,4 +76,4 @@
 </nav>
  </header>
 
- 
+ <!--  end of  header section     -->
