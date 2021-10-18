@@ -4,13 +4,16 @@
 <div id="carouselExampleInterval"  class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="900" >
-      <img src="https://www.bajajfinserv.in/Best_Oppo_Phones_Under_Rs5000_img1_Oppo-790x345-min.jpg" style="height: 300px;" class="d-block w-100" alt="...">
+      <img 
+    src="https://www.bajajfinserv.in/Questions_Your_Business_Loan_Lender_Img_720_Questions_Your_Business_Loan_Lender_May_Ask_When_You_Take_Small_Business_Loans.jpg" style="height: 300px;" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item" data-bs-interval="2000">
-      <img src="https://www.writersevoke.com/wp-content/uploads/2019/10/Best-Personal-Loan-Apps-in-India.png" style="height: 300px;"  class="d-block w-100" alt="...">
+      <img 
+      src="https://assets.fullertonindia.com/sites/default/files/5-Tips-to-Qualify-for-Personal-Loan.jpg?RV3SW4V8lDpSJp.8xFCCIieX26WyTKD" style="height: 300px;"  class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item" data-bs-interval="1600">
-      <img src="https://www.cashoverflow.in/wp-content/uploads/2020/07/best-instant-loan-app-in-India.png" style="height: 300px;" class="d-block w-100" alt="...">
+      <img 
+      src="https://www.indiainformations.com/wp-content/uploads/2018/12/loans-in-59-minutes.jpg" style="height: 300px;" class="d-block w-100" alt="...">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
@@ -26,43 +29,53 @@
 <!--  top text section  -->
 
 <div class="sat-container" > <div class="sat-top-section">
-<h1 class="animate__animated animate__fadeIn">Mobile Loan</h1>
+<h1 class="animate__animated animate__fadeIn">Micro Loan</h1>
 <div class="animate__animated animate__fadeIn">
-    <p>Get Instant Mobile Loan up to ₹1 Lakhs Easily at 1paisa.com.
-<b>3 easy and simple steps to buy a new phone!</b> 
-Wondering how to buy a mobile phone on EMI with 1paisa.com? We have a step by step guide ready for you. All you need to do to buy your mobile phone on EMI is to follow the steps below:
+    <p>Get small personal Loan upto ₹5 Lakh in 24 hours at 1paisa.in.
+<b>Apply Now to get an instant approval of small Loan.</b> 
+Small personal loans for instant cash needs. Apply now and get the money in your account by the end of the day.
 </p>
 </div>
 <button type="button" class="btn btn-primary">Apply Now</button>
 </div>
 
-<!--  3 easy steps to buy mobile  -->
+<!--  5 easy steps to take small  -->
 
 <div class="card mb-3">
   <img  src="https://topflightapps.com/wp-content/uploads/2020/07/Mobile-loan-app-hero-image.jpg" 
   class="card-img-top" style="height: 330px;" alt="mobile loan">
   <div class="card-body" style="width:90%; text-align:center;">
     <h2 class="card-title animate__animated animate__pulse" style="text-align: center; padding-top:20px;">
-    <span class="badge bg-dark" >3 Easy Steps to buy your new</br> phone!</span></h2>
+    <span class="badge bg-dark" >5 Easy Steps to take instant</br> Micro loan!</span></h2>
     <p class="card-text">
     
 
-Wondering how to buy a mobile phone on EMI with <b>1paisa - Finance company? </b> We have a step by step guide ready for you.
- All you need to do to buy your mobile phone on EMI is to follow the steps below:
+    The interest rate will vary as per the customer profile and his/her credit history. The
+     small cash loan interest rate can be <b>as low as 0.1% per day up to 0.33%. </b> There could be many factors that affect the rate
+     of interest for a small cash loan, like your income, existing financial liabilities, and more
 
 <div class="list-group" >
   
-     <button type="button" class="btn btn-primary" >1. Go to 1paisa.in website</button>
+     <button type="button" class="btn btn-primary" >1. Just log on to 1paisa.in, choose Small Loan as the 
+         product and fill up the required details and complete the steps. We will get in touch with you in case we
+          need any additional 
+         information. On loan approval, you will receive the loan amount instantly in your bank account.</button>
 
   
 </br>
-  <button type="button" class="btn btn-primary">2. Fill in your details and upload the required documents</button>
+  <button type="button" class="btn btn-primary">2. You may be required to link your social media profiles 
+      and verify net banking account so that we can process the loan faster.</button>
  
   </br>
-  <button type="button" class="btn btn-primary">3. Set up our inbuilt auto-debit system and avail your personal loan</button>
+  <button type="button" class="btn btn-primary">3. You can even re-apply for this loan after successfully
+      closing the previous small cash loan taken. Re-applying will be much 
+      easier and quicker, you can get funds in as little as 30 mins.</button>
   </br>
-      
-  <button type="button" class="btn btn-danger">Congratulations! You can now buy the phone of your choice!</button>
+  <button type="button" class="btn btn-primary">3. You can get in touch with the support team for 
+      any loan queries via the dedicated customer 
+      support number or by emailing your query to customersupport@1paisa.in</button>
+  </br>
+  <button type="button" class="btn btn-danger">Congratulations! now are eligible for small loan.</button>
 </div>
 </br>
 
@@ -77,7 +90,8 @@ Wondering how to buy a mobile phone on EMI with <b>1paisa - Finance company? </b
   <h1 class="card-header text-center bg-dark text-light animate__animated animate__fadeIn">How it works </h1>
   <div class="row g-0">
     <div class="col-md-4">
-      <img src="https://images.financialexpress.com/2018/03/iphonex-reuters-6.jpg" class="img-fluid rounded-start" alt="...">
+      <img src="https://images.pexels.com/photos/4968385/pexels-photo-4968385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" class="img-fluid rounded-start" 
+         style="height:330px; width:100%;" alt="...">
     </div>
     <div class="col-md-8">
       <div class="card-body">
@@ -103,13 +117,13 @@ Wondering how to buy a mobile phone on EMI with <b>1paisa - Finance company? </b
 
 
 
-<!--   Apply for mobile phones on EMI   -->
+<!--   Apply for Micro loans on EMI   -->
 
 <div class="card mb-3 bg-dark text-white" style="width:100%;">
   <div class="row g-0">
     <div class="col-md-6">
       <div class="card-body">
-        <h1 class="card-title animate__animated animate__fadeIn">Apply for mobile phones on EMI</h1>
+        <h1 class="card-title animate__animated animate__fadeIn">Apply for Micro Loans on EMI</h1>
         <p class="card-text animate__animated animate__fadeIn">You should have a graduate degree.
 It’s important to hold a college degree to finance your mobile on EMI from NIRA. A college degree builds on your credibility and credentials for a smartphone loan application.
 </br></br>
@@ -127,7 +141,8 @@ An Aadhaar card is mandatory for NIRA smartphone loan application and to buy a m
       </div>
     </div>
     <div class="col-md-6">
-      <img src="https://www.gizbot.com/images/2019-02/vivo-u1_155107538060.jpg" class="img-fluid rounded-start" alt="...">
+      <img src="https://images.pexels.com/photos/8293743/pexels-photo-8293743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+       style="height:100%;"  class="img-fluid rounded-start" alt="...">
     </div>
 
   </div>

@@ -127,7 +127,7 @@ An Aadhaar card is mandatory for NIRA smartphone loan application and to buy a m
       </div>
     </div>
     <div class="col-md-6">
-      <img src="https://www.gizbot.com/images/2019-02/vivo-u1_155107538060.jpg" class="img-fluid rounded-start" alt="...">
+      <img src="https://www.gizbot.com/images/2019-02/vivo-u1_155107538060.jpg" style="height:100%;"  class="img-fluid rounded-start" alt="...">
     </div>
 
   </div>
