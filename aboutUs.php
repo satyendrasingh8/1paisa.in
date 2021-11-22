@@ -3,7 +3,7 @@
 <div class="sat-container"> 
     <h2>About page</h2>
     <h2>About page00</h2>
-this is a about page..
+this is a about page...
 </div>
 
 
