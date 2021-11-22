@@ -117,3 +117,235 @@
     transform: rotateY(180deg);
   }
   
+
+  .btn-main {
+    background: #e76c06;
+    border: 1px solid #e92907;
+    color: #fff;
+    display: inline-block;
+    font-size: 14px;
+    letter-spacing: 1px;
+    padding: 12px 40px;
+    text-transform: uppercase;
+    border-radius: 40px;
+  }
+  
+  .btn-main:hover {
+    color: #fff;
+  }
+  
+  .btn-transparent {
+    color: #fff;
+    border: 1px solid #fff;
+    display: inline-block;
+    font-size: 13px;
+    letter-spacing: 1px;
+    padding: 14px 35px;
+    text-transform: uppercase;
+    border-radius: 40px;
+  }
+  
+  .btn-transparent:hover {
+    color: #fff;
+  }
+  
+  .hero-area {
+    background: transparent;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .hero-area:before {
+    content: "";
+    background: rgba(0, 0, 0, 0.63);
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  
+  .hero-area .block {
+    color: #fff;
+  }
+  
+  .hero-area .block h1 {
+    font-size: 60px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+  }
+  
+  .hero-area .block p {
+    color: #fff;
+    width: 50%;
+    margin-bottom: 20px;
+  }
+  
+  .hero-area .block .btn-main {
+    margin-right: 8px;
+  }
+  
+  .hero-area .block .btn-main:hover {
+    opacity: 0.8;
+  }
+  
+  .dark-bg {
+    background: transparent;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+  }
+  
+  
+  .slider-item {
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+  }
+  
+  .slider-item::before {
+    position: absolute;
+    content: "";
+    height: 100%;
+    width: 100%;
+    background: transparent;
+    left: 0;
+    top: 0;
+  }
+  
+  .slider-item .container {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+  
+  .slider-item h1 {
+    color: #fff;
+    font-size: 60px;
+    line-height: 70px;
+    letter-spacing: 2px;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  
+  .slider-item p {
+    color: #fff;
+    margin-bottom: 20px;
+  }
+  
+  .hero-slider {
+    overflow-x: hidden;
+  }
+  
+  .hero-slider .prevArrow {
+    left: -100px;
+  }
+  
+  .hero-slider .nextArrow {
+    right: -100px;
+  }
+  
+  .hero-slider:hover .prevArrow {
+    left: 20px;
+  }
+  
+  .hero-slider:hover .nextArrow {
+    right: 20px;
+  }
+  
+  /* slick style */
+  .slick-slide {
+    outline: 0;
+  }
+  
+  .slick-slide img {
+    display: unset;
+  }
+  
+  /* slick arrows */
+  .slick-arrow {
+    position: absolute;
+    top: 45%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    z-index: 9;
+    height: 60px;
+    width: 60px;
+    background: transparent;
+    color: #fff;
+    border: 0;
+    line-height: 70px;
+    font-size: 35px;
+    transition: 0.2s ease;
+    border-radius: 50%;
+  }
+  
+  .slick-arrow::before {
+    position: absolute;
+    content: "";
+    height: 10px;
+    width: 10px;
+    background: transparent;
+    top: 50%;
+    -webkit-transform: translateY(-50%) rotate(-45deg);
+    transform: translateY(-50%) rotate(-45deg);
+    transition: 0.2s ease;
+  }
+  
+  .slick-arrow::after {
+    position: absolute;
+    content: "";
+    height: 2px;
+    width: 25px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    background: #fff;
+    transition: 0.2s ease;
+  }
+  
+  .slick-arrow:focus {
+    outline: 0;
+  }
+  
+  .slick-arrow:hover {
+    background: transparent;
+  }
+  
+  .prevArrow {
+    left: 0px;
+  }
+  
+  .prevArrow::before {
+    border-left: 2px solid #fff;
+    border-top: 2px solid #fff;
+    right: 35px;
+  }
+  
+  .prevArrow::after {
+    right: 20px;
+  }
+  
+  .nextArrow {
+    right: 0px;
+  }
+  
+  .nextArrow::before {
+    border-right: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    left: 35px;
+  }
+  
+  .nextArrow::after {
+    left: 20px;
+  }
